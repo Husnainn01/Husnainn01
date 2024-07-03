@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HUS NAIN</h1>
-<h3 align="center">A passionate frontend developer from Pakistan Living in Japan</h3>
+<h3 align="center">A passionate Full-Stack developer from Pakistan Living in Japan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husnainn01&label=Profile%20views&color=0e75b6&style=flat" alt="husnainn01" /> </p>
 
@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently working on [a company project](https://www.ss-japan.com/)
 
-- 🌱 I’m currently learning **React native And Back-End**
+- 🌱 I’m currently learning **Next JS**
 
 - 👯 I’m looking to collaborate on **React Project**
 
-- 🤝 I’m looking for help with **Any Project With Front-End project**
+- 🤝 I’m looking for help with **Any Project With Full-Stack project's**
 
-- 👨‍💻 All of my projects are available at [www.husnain.jp](www.husnain.jp)
+- 👨‍💻 All of my projects are available at [www.husnainprojects.com](www.husnainprojects.com)
 
-- 💬 Ask me about **Html, CSS, JavaScript, React, Rest-API**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Rest-API, React NODE JS, NEXT JS**
 
-- 📫 How to reach me **husnain.shafique234@gmail.com**
+- 📫 How to reach me **contactus@husnainprojects.com**
 
 - 📄 Know about my experiences [Have not Upload yet](Have not Upload yet)
 
