@@ -19,9 +19,9 @@
 
 - 📫 How to reach me **contactus@husnainprojects.com**
 
-- 📄 Know about my experiences [Have not Upload yet](Have not Upload yet)
+- 📄 Know about my experiences [www.husnainprojects.com](www.husnainprojects.com)
 
-- ⚡ Fun fact **i think i am Funny, if We Talk**
+- ⚡ Fun fact **i Think I am a very interested person but I love coffee tough **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
